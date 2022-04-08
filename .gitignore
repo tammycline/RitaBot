@@ -1,8 +1,15 @@
+<<<<<<< Updated upstream
 node_modules
 build
 SQLlite
 *.exe
 sqlite3.dll
 sqlite3.def
+serverlist.txt
 *.db
 .env
+package-lock.json.old
+src/files/serverlist.txt
+=======
+node_modules
+>>>>>>> Stashed changes
